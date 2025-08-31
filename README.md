@@ -1,5 +1,5 @@
-#💫 About Me:
-#👋 Hello! I'm H.M.Ashis Rahman
+💫 About Me:
+👋 Hello! I'm H.M.Ashis Rahman
 A 2nd year Software Engineering student at Daffodil International University(DIU) with a strong passion for building innovative solutions and continuously learning new technologies.<br><br>💻 My Toolkit & Experience<br>I'm always eager to expand my knowledge and apply my skills to real-world projects. Here's a quick look at my current focus areas:<br><br>Mobile Development: I have experience in Flutter for creating cross-platform Android applications.<br><br>Web Development: I am actively learning React.js and Tailwind CSS to build modern and responsive user interfaces.<br><br>Cloud & DevOps: I have a foundational understanding of cloud services and DevOps principles, holding certifications in AWS Cloud Practitioner and Azure Developer Fundamentals.<br><br>✨ Passions & Future Goals<br>My greatest passion lies in Artificial Intelligence and Machine Learning (AIML), and I am excited to explore this field further. I believe in the power of technology to solve complex problems and am driven to contribute to impactful projects.<br><br>I am always open to new challenges and collaborative opportunities.<br><br>🤝 Let's Connect!<br>Feel free to connect with me to discuss tech, projects, or anything else!<br><br>
 ![](https://komarev.com/ghpvc/?username=rahmanashis01&color=blue)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmanashis01)
