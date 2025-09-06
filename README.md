@@ -1,5 +1,10 @@
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi,+I'm+H.M.+Ashis+Rahman)<br><br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=41E5D1&center=true&vCenter=true&lines=A+Software+Engineering+Student;Passionate+about+AIML;Building+with+React;Certified+in+Cloud+&+DevOps)
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi,+I'm+H.M.+Ashis+Rahman" alt="Typing SVG" />
+</p>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=41E5D1&center=true&vCenter=true&lines=A+Software+Engineering+Student;Passionate+about+AIML+%26+MLOps;Building+with+React;Certified+in+Cloud+%26+DevOps" alt="Typing SVG" />
+</p>
 <br><br>💻 My Toolkit & Experience<br>I'm always eager to expand my knowledge and apply my skills to real-world projects. Here's a quick look at my current focus areas:<br><br>Mobile Development: I have experience in Flutter for creating cross-platform Android applications.<br><br>Web Development: I am actively learning React.js and Tailwind CSS to build modern and responsive user interfaces.<br><br>Cloud & DevOps: I have a foundational understanding of cloud services and DevOps principles, holding certifications in AWS Cloud Practitioner and Azure Developer Fundamentals.<br><br>✨ Passions & Future Goals<br>My greatest passion lies in Artificial Intelligence and Machine Learning (AIML), and I am excited to explore this field further. I believe in the power of technology to solve complex problems and am driven to contribute to impactful projects.<br><br>I am always open to new challenges and collaborative opportunities.<br><br>🤝 Let's Connect!<br>Feel free to connect with me to discuss tech, projects, or anything else!<br><br>
 
 ![](https://komarev.com/ghpvc/?username=rahmanashis01&color=blue)
