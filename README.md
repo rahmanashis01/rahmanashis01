@@ -66,12 +66,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahmanashis01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahmanashis01/rahmanashis01/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
-
----
 [![](https://visitcount.itsvg.in/api?id=rahmanashis01&icon=1&color=0)](https://visitcount.itsvg.in)
 
