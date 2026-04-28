@@ -13,7 +13,7 @@
 • <b>SkinX</b> — <a href="https://skin-x.app/" target="_blank">skin-x.app</a><br><br>
 
 <b>💻 About Me</b><br>
-I'm a Software Engineering student and currently working remotely as a junior system devops engineer, focused on building reliable, production-ready systems.<br><br>
+I'm a SWE student and currently working remotely as a junior system devops engineer, focused on building reliable, production-ready systems.<br><br>
 
 <b>Focus:</b><br>
 • Build and integrate RESTful APIs & FastAPI services for ML-based backends<br>
@@ -23,9 +23,10 @@ I'm a Software Engineering student and currently working remotely as a junior sy
 • Build agentic RAG systems and integrate Vector DBs for AI applications<br><br>
 
 <b>🏅 Certifications</b><br>
-• Linux Foundation (LF)<br>
-• Cisco DevNet Certified<br>
+• Foundation Certified IT Associate (LFCA)<br>
+• Cisco Certified DevNet Associate <br>
 • AWS Certified Cloud Practitioner<br>
+• AWS Certified Associate Solutions Architect<br>
 • Microsoft Azure Developer Associate<br>
 • Oracle Certified Associate (Java) Developer<br>
 • Oracle Cloud Certified Developer Professional<br>
