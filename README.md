@@ -5,19 +5,22 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=41E5D1&center=true&vCenter=true&lines=A+Software+Engineering+Student;Passionate+about+AIML+%26+MLOps;Building+with+React;Certified+in+DevOps+%26+Cloud" alt="Typing SVG" />
 </p>
+</p>
+</p>
 <br><br><b>🚀 Featured Projects</b><br>
 • <b>Algorithm Visualizer</b> — <a href="https://ashisrahman.dev/" target="_blank">ashisrahman.dev</a><br>
 • <b>Darktrace3</b> — <a href="https://darktrace3.tech/" target="_blank">darktrace3.tech</a><br>
 • <b>SkinX</b> — <a href="https://skin-x.app/" target="_blank">skin-x.app</a><br><br>
 
-<b>💻 About Me</b><br>
-Software Engineering student and <b>Junior System/DevOps Engineer (Remote)</b>, focused on building reliable, production-ready systems and clean, maintainable backend architectures.<br><br>
+<b>💻 My Toolkit & Experience</b><br>
+I'm a Software Engineering student and currently working remotely as a junior system/devops engineer, focused on building reliable, production-ready systems.<br><br>
 
-<b>🔧 Focus</b><br>
-• Backend APIs: RESTful & FastAPI services for ML-driven products<br>
-• AI/ML: Agentic RAG pipelines, integrations, and <b>Vector DB</b>-backed retrieval systems<br>
-• DevOps/Cloud: CI/CD with <b>Jenkins</b>, Infrastructure as Code with <b>HashiCorp Terraform</b>, cloud server management, deployments & automation<br>
-• Observability: monitoring with <b>Prometheus</b> and dashboards with <b>Grafana</b><br><br>
+<b>Focus:</b><br>
+• Build and integrate RESTful APIs & FastAPI services for ML-based backends<br>
+• Design clean, maintainable architectures (development → staging → production)<br>
+• Deploy and manage cloud servers, automate workflows, and maintain CI/CD pipelines<br>
+• Improve reliability with monitoring, alerting, and performance tuning<br>
+• Build agentic RAG systems and integrate Vector DBs for AI applications<br><br>
 
 <b>🏅 Certifications</b><br>
 • Linux Foundation (LF)<br>
@@ -25,12 +28,15 @@ Software Engineering student and <b>Junior System/DevOps Engineer (Remote)</b>, 
 • AWS Certified Cloud Practitioner<br>
 • Microsoft Azure Developer Associate<br>
 • Oracle Certified Associate (Java) Developer<br>
-• <b>Oracle Cloud Certified Developer Professional</b><br>
-• <b>Oracle Cloud Certified DevOps Professional</b><br>
-• <b>DB Academy Certified Database Developer</b><br>
-• <b>MongoDB Certified Associate Atlas Administrator</b><br><br>
+• Oracle Cloud Certified Developer Professional<br>
+• Oracle Cloud Certified DevOps Professional<br>
+• DB Academy Certified Database Developer<br>
+• MongoDB Certified Associate Atlas Administrator<br><br>
 
-<b>🤝 Let's Connect</b><br>
+<b>✨ Interests & Goals</b><br>
+I’m deeply interested in AI/ML and excited to contribute to real-world products through strong engineering, reliability, and collaboration.<br><br>
+
+<b>🤝 Let's Connect!</b><br>
 Open to internships, collaborations, and meaningful engineering challenges.<br><br>
 
 ![](https://komarev.com/ghpvc/?username=rahmanashis01&color=blue)
