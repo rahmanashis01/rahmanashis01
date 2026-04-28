@@ -12,8 +12,8 @@
 • <b>Darktrace3</b> — <a href="https://darktrace3.tech/" target="_blank">darktrace3.tech</a><br>
 • <b>SkinX</b> — <a href="https://skin-x.app/" target="_blank">skin-x.app</a><br><br>
 
-<b>💻 My Toolkit & Experience</b><br>
-I'm a Software Engineering student and currently working remotely as a junior system/devops engineer, focused on building reliable, production-ready systems.<br><br>
+<b>💻 About Me</b><br>
+I'm a Software Engineering student and currently working remotely as a junior system devops engineer, focused on building reliable, production-ready systems.<br><br>
 
 <b>Focus:</b><br>
 • Build and integrate RESTful APIs & FastAPI services for ML-based backends<br>
