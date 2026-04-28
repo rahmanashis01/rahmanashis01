@@ -5,7 +5,33 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=41E5D1&center=true&vCenter=true&lines=A+Software+Engineering+Student;Passionate+about+AIML+%26+MLOps;Building+with+React;Certified+in+DevOps+%26+Cloud" alt="Typing SVG" />
 </p>
-<br><br>💻 My Toolkit & Experience<br>I'm always eager to expand my knowledge and apply my skills to real-world projects. Here's a quick look at my current focus areas:<br><br>Mobile Development: I have experience in Flutter for creating cross-platform Android applications.<br><br>Web Development: I am actively learning React.js and Tailwind CSS to build modern and responsive user interfaces.<br><br>Cloud & DevOps: I have a foundational understanding of cloud services and DevOps principles, holding certifications in AWS Cloud Practitioner and Azure Developer Fundamentals.<br><br>✨ Passions & Future Goals<br>My greatest passion lies in Artificial Intelligence and Machine Learning (AIML), and I am excited to explore this field further. I believe in the power of technology to solve complex problems and am driven to contribute to impactful projects.<br><br>I am always open to new challenges and collaborative opportunities.<br><br>🤝 Let's Connect!<br>Feel free to connect with me to discuss tech, projects, or anything else!<br><br>
+<br><br><b>🚀 Featured Projects</b><br>
+• <b>Algorithm Visualizer</b> — <a href="https://ashisrahman.dev/" target="_blank">ashisrahman.dev</a><br>
+• <b>Darktrace3</b> — <a href="https://darktrace3.tech/" target="_blank">darktrace3.tech</a><br>
+• <b>SkinX</b> — <a href="https://skin-x.app/" target="_blank">skin-x.app</a><br><br>
+
+<b>💻 About Me</b><br>
+Software Engineering student and <b>Junior System/DevOps Engineer (Remote)</b>, focused on building reliable, production-ready systems and clean, maintainable backend architectures.<br><br>
+
+<b>🔧 Focus</b><br>
+• Backend APIs: RESTful & FastAPI services for ML-driven products<br>
+• AI/ML: Agentic RAG pipelines, integrations, and <b>Vector DB</b>-backed retrieval systems<br>
+• DevOps/Cloud: CI/CD with <b>Jenkins</b>, Infrastructure as Code with <b>HashiCorp Terraform</b>, cloud server management, deployments & automation<br>
+• Observability: monitoring with <b>Prometheus</b> and dashboards with <b>Grafana</b><br><br>
+
+<b>🏅 Certifications</b><br>
+• Linux Foundation (LF)<br>
+• Cisco DevNet Certified<br>
+• AWS Certified Cloud Practitioner<br>
+• Microsoft Azure Developer Associate<br>
+• Oracle Certified Associate (Java) Developer<br>
+• <b>Oracle Cloud Certified Developer Professional</b><br>
+• <b>Oracle Cloud Certified DevOps Professional</b><br>
+• <b>DB Academy Certified Database Developer</b><br>
+• <b>MongoDB Certified Associate Atlas Administrator</b><br><br>
+
+<b>🤝 Let's Connect</b><br>
+Open to internships, collaborations, and meaningful engineering challenges.<br><br>
 
 ![](https://komarev.com/ghpvc/?username=rahmanashis01&color=blue)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahmanashis01)
