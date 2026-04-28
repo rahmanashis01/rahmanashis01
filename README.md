@@ -27,12 +27,10 @@ I'm a SWE student and currently working remotely as a junior system devops engin
 • Cisco Certified DevNet Associate <br>
 • AWS Certified Cloud Practitioner<br>
 • AWS Certified Associate Solutions Architect<br>
-• Microsoft Azure Developer Associate<br>
-• Oracle Certified Associate (Java) Developer<br>
-• Oracle Cloud Certified Developer Professional<br>
+• Oracle Certified Developer Associate<br>
 • Oracle Cloud Certified DevOps Professional<br>
 • DB Academy Certified Database Developer<br>
-• MongoDB Certified Associate Atlas Administrator<br><br>
+• Certified Associate Atlas Administrator<br><br>
 
 <b>✨ Interests & Goals</b><br>
 I’m deeply interested in AI/ML and excited to contribute to real-world products through strong engineering, reliability, and collaboration.<br><br>
